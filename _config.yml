@@ -21,15 +21,15 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://gyutaehan.sytes.net'
-baseurl: ''
+url: 'https://gyutaehan.github.io/'
+baseurl: '/blog'
 title: '코딩터'
 description: '지어내는중'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/498c4529cde75e50c882bedeb0435464?s=52"
-disqus: "gyutaehan-sytes-net" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+disqus: "gyutaehan-me" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
-google_analytics: "G-GHFZN8C937"
+google_analytics: "G-4PQM83TTBG"
 # google_analytics_anonymize_ip: ""
 # service_worker: false # Will turn off the service worker if set to false
 # short_name: "Al" # The web application short name, defaults to the site title
