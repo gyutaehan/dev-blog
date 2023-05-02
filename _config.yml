@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: 'https://gyutaehan.github.io/blog'
-baseurl: ''
+baseurl: '/'
 title: '코딩터'
 description: '지어내는중'
 permalink: pretty
