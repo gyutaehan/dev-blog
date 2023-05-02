@@ -21,8 +21,8 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://gyutaehan.github.io/blog/'
-baseurl: '/'
+url: 'https://gyutaehan.github.io/'
+baseurl: '/blog'
 title: '코딩터'
 description: '지어내는중'
 permalink: pretty
