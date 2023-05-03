@@ -59,6 +59,8 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-google_search_console_verification_file (1.1.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-include-cache (0.2.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-mentions (1.6.0)
@@ -126,6 +128,7 @@ PLATFORMS
 DEPENDENCIES
   alembic-jekyll-theme (~> 4.1)
   jekyll (~> 4.1)
+  jekyll-google_search_console_verification_file (~> 1.1)
 
 BUNDLED WITH
    2.4.9
