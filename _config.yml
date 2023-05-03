@@ -33,7 +33,8 @@ google_analytics: "G-4PQM83TTBG"
 # google_analytics_anonymize_ip: ""
 # service_worker: false # Will turn off the service worker if set to false
 # short_name: "Al" # The web application short name, defaults to the site title
-
+google_site_verification:  YLJXi6GctNk21mS_qnUNVXHCGphTwRdabJuWN6v6kMo # your google-site-verification ID (Google Search Console) 
+bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster) 
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
