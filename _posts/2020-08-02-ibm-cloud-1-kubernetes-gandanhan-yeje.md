@@ -15,7 +15,7 @@ categories: abraham
 
 # 시작하기 전에
 
--  [Kubernetes Service](http://localhost/kubernetes-service-create/) 
+-  [Kubernetes Service](https://gyutaehan.github.io/abraham/2020/08/02/kubernetes-service-create/) 
   - Git
   - Docker
 

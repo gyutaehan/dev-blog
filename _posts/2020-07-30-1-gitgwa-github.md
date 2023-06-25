@@ -36,7 +36,6 @@ Git은 형상관리도구중 하나로, SVN과 함께 전세계적으로 인기�
 
 ### Git 설치
 
-![git0](http://localhost/content/images/2020/07/git0.png)
 https://git-scm.com/downloads 에서 설치할 수 있습니다.
 자신의 운영체제에 맞는 버전을 다운로드 하여 설치하시면 됩니다.
 
@@ -44,7 +43,11 @@ https://git-scm.com/downloads 에서 설치할 수 있습니다.
 
 ### Git 로컬 서버에 커밋하기
 
-![git1](http://localhost/content/images/2020/07/git1.png)
+```
+안녕하세요!
+테스트 파일입니다!
+```
+
 git-test 폴더 안에 test.txt라는 파일을 작성하였습니다.
 전 VSCode의 터미널을 이용하였지만,
 윈도우라면 커맨드프롬프트나 PowerShell, 리눅스나 맥이라면 터미널을 이용하시면 됩니다.
@@ -62,28 +65,13 @@ git-test $ git add test.txt
 git-test $ git commit -m "첫 번째 커밋"
 ```
 
-![gi11](http://localhost/content/images/2020/07/gi11.png)
-git log 명령어를 이용하여, 커밋이 되었는지 확인도 가능합니다.
-![git12](http://localhost/content/images/2020/07/git12.png)
-
 
 ### 깃 서버에 있는 내용을 깃허브에 올리기
 
-![gittwit](http://localhost/content/images/2020/07/Screen-Shot-2020-07-30-at-15.32.16.png)
-
-
 [깃허브](https://github.com/)에 접속하여 계정 생성 및 로그인을 해줍니다.
-
-![new repository](http://localhost/content/images/2020/07/gi2.png)
 우 상단에 위치한 +를 눌러 New repository를 클릭해줍니다.
-
-![git3](http://localhost/content/images/2020/07/git3.png)
 리포지토리 이름과 설명을 입력해주고 리포지토리를 생성합니다.
-
-![git4](http://localhost/content/images/2020/07/git4.png)
 생성을 하게되면 다음과 같은 창이 나오는데 복사를 합니다.
-
-
 
 ```
 # 원격 저장소를 지정해준다.
@@ -100,6 +88,4 @@ git-test $ git push -u origin master
 *여담이지만 브랜치 이름의 "master"가 master/slave 같은 노예제도 용어라서 그걸 없애고 "main"으로 바꾸겠다는 [기사](https://www.bbc.com/news/technology-53050955)가 있었는데, 그게 언제가 될지는 모르겠습니다.*
 
 
-
-![git5](http://localhost/content/images/2020/07/git5.png)
 깃허브 저장소를 확인해보면, 위와 같이 test.txt가 푸시 된 것을 확인할 수 있습니다.

@@ -35,10 +35,6 @@ appPriv라는 내용을 찾아서 공백으로 바꿔주면 해결!
 ```
 
 ---
-##### 결과
-![nasgit](http://localhost/content/images/2020/07/nasgit.png)
-사용자가 잘 나오는 것을 확인할 수 있다.
-
 
 
 참고: https://community.synology.com/enu/forum/10/post/135039
