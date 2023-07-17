@@ -1,14 +1,10 @@
 ---
 layout: post
-cover: 'assets/images/cover7.jpg'
-navigation: false
 title: IBM Cloud Essentials V2 수강 후기
 date: 2021-11-06 10:18:00
 tags: dev
-subclass: 'post tag-dev'
-logo: 'assets/images/ghost.png'
 author: Gyutae Han
-categories: abraham
+categories: dev
 ---
 
 # Synology NAS에서 Ghost 블로그 만들기(Without Docker)

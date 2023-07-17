@@ -1,14 +1,10 @@
 ---
 layout: post
-cover: 'assets/images/cover7.jpg'
-navigation: false
 title: IBM Cloud Essentials V2 수강 후기
 date: 2020-07-19 10:18:00
 tags: dev
-subclass: 'post tag-dev'
-logo: 'assets/images/ghost.png'
 author: Gyutae Han
-categories: abraham
+categories: dev
 ---
 
 [저번 글](http://localhost/ibm-keulraudeoseue-jiweonhada/)에서 소개한 IBM Cloud Core 코스에 이어 IBM Cloud Essentials V2코스를 수강하였습니다.

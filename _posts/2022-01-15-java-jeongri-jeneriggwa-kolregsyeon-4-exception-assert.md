@@ -1,14 +1,10 @@
 ---
 layout: post
-cover: 'assets/images/cover7.jpg'
-navigation: false
 title: Java 정리 4. 예외처리와 Assert
 date: 2022-01-15 15:18:00
 tags: dev
-subclass: 'post tag-dev'
-logo: 'assets/images/ghost.png'
 author: Gyutae Han
-categories: abraham
+categories: dev
 ---
 
 ### ※이 글은 Java SE 8 기준으로 작성되었습니다.

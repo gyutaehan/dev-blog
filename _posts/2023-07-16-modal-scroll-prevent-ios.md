@@ -1,17 +1,10 @@
 ---
 layout: post
-cover: 'assets/images/cover7.jpg'
-navigation: false
 title: Modal 스크롤 막는 방법, iOS 넌 진짜 
 date: 2023-07-16 16:39:00
-tags: dev
-subclass: 'post tag-dev'
-logo: 'assets/images/ghost.png'
 author: Gyutae Han
-categories: abraham
+categories: dev
 ---
-
-Modal에서 스크롤을 막는 방법
 
 ```javascript
 <div class="modal">
@@ -21,11 +14,7 @@ Modal에서 스크롤을 막는 방법
 </div>
 ```
 
-
-
-
-
-**아주 간단한 방법1 하지만...**
+### **아주 간단한 방법1 하지만...**
 
 ```css
 body{
@@ -39,7 +28,7 @@ body에다 **overflow:hidden**을 주면 된다.
 
 
 
-**iOS도 해결되지만, 완전하지 않은 방법2**
+### **iOS도 해결되지만, 완전하지 않은 방법2**
 
 ```css
 body {
@@ -55,7 +44,7 @@ body {
 
 
 
-**1과 2를 개선한 방법3**
+### **1과 2를 개선한 방법3**
 
 ```javascript
 let scrollPosition;
@@ -88,7 +77,7 @@ iOS가 아니라면, **overflow:hidden**, iOS라면 **position: fixed**를 준�
 
 
 
-**번외 방법4(iOS16이상만 가능)**
+### **번외 방법4(iOS16이상만 가능)**
 
 참고) https://developer.mozilla.org/ja/docs/Web/CSS/overscroll-behavior
 

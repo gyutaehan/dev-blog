@@ -1,21 +1,17 @@
 ---
 layout: post
-cover: 'assets/images/cover7.jpg'
-navigation: false
 title: 【IBM Cloud】쿠버네티스 서비스와 Kubernetes 배포 하기
 date: 2020-08-02 15:18:00
 tags: dev
-subclass: 'post tag-dev'
-logo: 'assets/images/ghost.png'
 author: Gyutae Han
-categories: abraham
+categories: dev
 ---
 
 # [IBM Cloud] IBM클라우드 쿠버네티스 서비스와 Kubernetes 배포 하기
 
 # 시작하기 전에
 
--  [Kubernetes Service](https://gyutaehan.github.io/abraham/2020/08/02/kubernetes-service-create/) 
+-  [Kubernetes Service](https://gyutaehan.github.io/dev/2020/08/02/kubernetes-service-create/) 
   - Git
   - Docker
 

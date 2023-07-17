@@ -1,14 +1,10 @@
 ---
 layout: post
-cover: 'assets/images/cover7.jpg'
-navigation: false
 title: IBM 클라우더스에 지원하다.
 date: 2020-07-10 10:18:00
 tags: dev
-subclass: 'post tag-dev'
-logo: 'assets/images/ghost.png'
 author: Gyutae Han
-categories: abraham
+categories: dev
 ---
 
 IBM C:LOUDERs?

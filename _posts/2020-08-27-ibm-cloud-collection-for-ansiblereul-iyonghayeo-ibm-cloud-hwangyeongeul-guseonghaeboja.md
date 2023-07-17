@@ -1,14 +1,10 @@
 ---
 layout: post
-cover: 'assets/images/cover7.jpg'
-navigation: false
 title: IBM Cloud Collection for Ansible를 이용하여 IBM Cloud 환경을 구성해보자.
 date: 2020-08-27 10:18:00
 tags: dev
-subclass: 'post tag-dev'
-logo: 'assets/images/ghost.png'
 author: Gyutae Han
-categories: abraham
+categories: dev
 ---
 
 [IBM Cloud Collection for Ansible](https://www.ibm.com/cloud/blog/announcements/ibm-cloud-collection-for-ansible)은 2020년 2월 10일에 발표된 Ansible과 IBM Cloud를 연결하는 **표준 모듈**입니다. **Ansible**은 많은 서버들을 동시에 배포를 할 때 인프라 상태를 코드로 작성하여 이를 모든 서버에 배포가 가능하게 해주는 도구입니다.

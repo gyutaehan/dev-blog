@@ -1,14 +1,10 @@
 ---
 layout: post
-cover: 'assets/images/cover7.jpg'
-navigation: false
 title: 구글홈미니에 에어플레이하기 (ft, 시놀로지 나스)
 date: 2021-05-17 10:18:00
 tags: dev
-subclass: 'post tag-dev'
-logo: 'assets/images/ghost.png'
 author: Gyutae Han
-categories: abraham
+categories: dev
 ---
 
 **구글홈미니**에 블루투스를 연결하여 음악을 재생하거나 할 수는 있지만, 일일히 재생할 때마다 블루투스를 연결하는 것은 어지간히 귀찮은 일입니다. 그래서 **시놀로지 나스**를 거쳐서 에어플레이를 할 수 있게  [AirConnect-Synology](https://github.com/eizedev/AirConnect-Synology)를 설치를 하였습니다.

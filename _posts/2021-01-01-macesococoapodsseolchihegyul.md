@@ -1,14 +1,10 @@
 ---
 layout: post
-cover: 'assets/images/cover7.jpg'
-navigation: false
 title: Mac에서 CocoaPods설치중 에러해결
 date: 2021-01-01 10:18:00
 tags: dev
-subclass: 'post tag-dev'
-logo: 'assets/images/ghost.png'
 author: Gyutae Han
-categories: abraham
+categories: dev
 ---
 
 아이폰과 Watson연결 공부를 하려고 [CocoaPods](https://guides.cocoapods.org/using/getting-started.html#getting-started)를 설치하려고 하던 중, 

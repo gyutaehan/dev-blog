@@ -1,14 +1,10 @@
 ---
 layout: post
-cover: 'assets/images/cover7.jpg'
-navigation: false
 title: Code Engine으로 쉽고 빠르게 배포하기
 date: 2020-09-23 15:18:00
 tags: dev
-subclass: 'post tag-dev'
-logo: 'assets/images/ghost.png'
 author: Gyutae Han
-categories: abraham
+categories: dev
 ---
 
 [IBM Code Engine](https://cloud.ibm.com/docs/codeengine?topic=codeengine-getting-started)은 컨테이너된 워크로드를 실행하는 **서버리스 플랫폼**입니다. 이러한 워크로드는 동일한 쿠버네티스 인프라 위에서 호스팅이 되어지고 있기 때문에 모두 원활하게 작동이 가능합니다.

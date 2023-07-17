@@ -1,14 +1,10 @@
 ---
 layout: post
-cover: 'assets/images/cover7.jpg'
-navigation: false
 title: WEB API 동영상 스트리밍이 크롬에서 검색이 되지 않는 문제(.NET Framework)
 date: 2020-12-12 10:18:00
 tags: dev
-subclass: 'post tag-dev'
-logo: 'assets/images/ghost.png'
 author: Gyutae Han
-categories: abraham
+categories: dev
 ---
 
 ### 원래 코드

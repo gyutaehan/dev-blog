@@ -1,14 +1,10 @@
 ---
 layout: post
-cover: 'assets/images/cover7.jpg'
-navigation: false
 title: 2021 지름결산
 date: 2021-12-18 10:18:00
 tags: dev
-subclass: 'post tag-dev'
-logo: 'assets/images/ghost.png'
 author: Gyutae Han
-categories: abraham
+categories: dev
 ---
 
 *이 글은 [kodeveloper #지름신 Advent Calendar 2021](https://adventar.org/calendars/6974) 참여를 위한 글입니다.*

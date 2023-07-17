@@ -1,14 +1,10 @@
 ---
 layout: post
-cover: 'assets/images/cover7.jpg'
-navigation: false
 title: 【후기】IBM 클라우더스를 시작하고 나에게 찾아온 변화
 date: 2020-09-23 10:18:00
 tags: dev
-subclass: 'post tag-dev'
-logo: 'assets/images/ghost.png'
 author: Gyutae Han
-categories: abraham
+categories: dev
 ---
 
 - [IBM 클라우더스에 지원하다.](http://localhost/ibm-keulraudeoseue-jiweonhada/)
