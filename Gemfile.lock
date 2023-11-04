@@ -130,6 +130,7 @@ DEPENDENCIES
   alembic-jekyll-theme (~> 4.1)
   jekyll (~> 4.1)
   jekyll-google_search_console_verification_file (~> 1.1)
+  jekyll-seo-tag
 
 BUNDLED WITH
    2.4.9

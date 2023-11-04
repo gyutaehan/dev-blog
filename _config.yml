@@ -20,6 +20,7 @@ plugins:
 - jekyll-include-cache
 - jemoji
 - jekyll-google_search_console_verification_file
+- jekyll-seo-tag
 
 # Site settings
 url: 'https://gyutaehan.github.io/'
